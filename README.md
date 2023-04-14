@@ -1,4 +1,4 @@
-# HackLab_Assgmt
+# HackLab
 
 We were given two tasks. In the first task, we were asked to implement person detection, and in the second task, we were asked to implement person detection using tiling with a size of 4x3, resulting in 12 tiles. 
 The following is an overview of the approach we used for these tasks. We used YOLOv5 as the model for person detection.
